@@ -1,0 +1,79 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Faustina', serif;
+  font-size: 2.5rem;
+  color: #ffffff;
+  padding-right: 10px;
+
+}
+.desc {
+  font-family: 'Satisfy', cursive;
+}
+.navigation {
+  background: linear-gradient(180deg, #e5d9b6, #a4be7b);
+}
+
+.w-100 {
+  background-color: #4d4d4d;
+  height: 8px;
+}
+
+.nav-item {
+  color: #ffffff;
+}
+.social-icon {
+  color: #a4be7b;
+  padding: 7%;
+}
+.social-icon:hover{
+  color: #e5d9b6;
+}
+.icons {
+  color: #a4be7b
+}
+.icons:hover{
+  color: #e5d9b6;
+}
+.services {
+  background-color: #5f8d4e;
+}
+
+.star {
+  color: #f0ff42;
+}
+.list-head {
+  font-family: 'satisfy',cursive;
+  color: #ffffff;
+  font-size: 2rem;
+}
+.list-group-item {
+  color: #ffffff;
+  font-size: 1.5rem;
+  background: none;
+}
+.carousel-item {
+  padding: 7%,25%;
+}
+
+.carousel-head {
+  font-family: "Roboto",sans-serif;
+}
+.footer {
+  background-color: #285430;
+  color: #ffffff;
+}
+.pages {
+  color: #a4be7b;
+}
+.pages:hover {
+  color: #e5d9b6
+}
+.menu {
+  color: #a4be7b;
+}
+.menu:hover {
+  color: #e5d9b6
+}
